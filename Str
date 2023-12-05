@@ -1,0 +1,2 @@
+a=input("str: ")
+print("output:",a[1:-1])
